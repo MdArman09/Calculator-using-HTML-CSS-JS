@@ -16,7 +16,7 @@ This calculator project is implemented using HTML, CSS, and JavaScript. It provi
 ## Styling
 The calculator has a clean and responsive design, making it easy to use on various devices. The styles are defined in the Calculator.css file.
 
-## Code Structure
+## Code Structure 
 index.html: HTML structure for the calculator.
 Calculator.css: Stylesheet for the calculator.
 Calculator.js: JavaScript logic for button clicks and calculations.
