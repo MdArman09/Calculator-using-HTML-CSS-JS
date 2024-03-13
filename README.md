@@ -26,5 +26,4 @@ Feel free to contribute to this project by creating issues, suggesting improveme
 
 ## Author
 Name - Md Arman Alam
-
 GitHub: https://github.com/Md-Arman-Alam
