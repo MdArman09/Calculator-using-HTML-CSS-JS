@@ -25,5 +25,5 @@ Calculator.js: JavaScript logic for button clicks and calculations.
 Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your feedback and contributions are welcome!
 
 ## Author
-Your  Name
-GitHub: Your GitHub Profile
+Name - Md Arman Alam
+GitHub: https://github.com/Md-Arman-Alam
