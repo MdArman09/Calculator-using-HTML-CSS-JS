@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #141e30, #243b55);
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.calculator {
+    background: #1e272e;
+    border: 2px solid #2f3640;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 350px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.calculator-heading {
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.display {
+    background-color: #222f3e;
+    color: #00d9ff;
+    font-size: 2.5em;
+    text-align: right;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    width: 100%;
+}
+
+.button {
+    background: linear-gradient(135deg, #34495e, #2c3e50);
+    border: none;
+    padding: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+
+.button:hover {
+    background: linear-gradient(135deg, #4b6584, #3b3b3b);
+    transform: translateY(-3px);
+}
+
+.button:active {
+    background: linear-gradient(135deg, #3b3b3b, #2c3e50);
+    transform: translateY(0);
+}
+
+#clear {
+    background: linear-gradient(135deg, #ff6b6b, #ee5253);
+}
+
+#equals {
+    background: linear-gradient(135deg, #1dd1a1, #10ac84);
+    color: #000;
+    grid-column: span 2;
+}
+
+#modulus, #square, #divide, #multiply, #subtract, #add {
+    background: linear-gradient(135deg, #ff9f43, #ff6b6b);
+}
+
+.button:focus {
+    outline: none;
+    box-shadow: 0 0 10px #00c6ff;
+}
+
+.button:active {
+    transform: translateY(2px);
+}
+
+.button:active {
+    transform: translateY(0);
+}
+
+.button:active {
+    transform: translateY(0);
+}
