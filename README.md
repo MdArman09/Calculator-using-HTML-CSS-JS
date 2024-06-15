@@ -8,8 +8,8 @@ This calculator project is implemented using HTML, CSS, and JavaScript. It provi
 
 ## Features
 
-- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
-- Clear button (C) to reset the display
+- Basic arithmetic operations: Addition(+) , Subtraction(-) , Multiplication(*) , Division(/) , Modulo(%) , Square of a number(x^2)
+- Clear button (AC) to reset the display
 - Equal button (=) to calculate and display the result
 - Responsive design for a user-friendly experience
 
