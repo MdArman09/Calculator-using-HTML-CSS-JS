@@ -1,30 +1,61 @@
-# Calculator Project
+# 🧮 Calculator Project  
 
-Welcome to my Calculator project! This is a simple web-based calculator with basic arithmetic operations.
+Welcome to my **Calculator Project**! This is a simple **web-based calculator** with basic arithmetic operations.  
 
-## Overview
+---
 
-This calculator project is implemented using HTML, CSS, and JavaScript. It provides a user interface with a display, number buttons (0-9), decimal point, and operators (+, -, *, /). Users can perform calculations by clicking on the buttons, and the result will be displayed on the screen.
+## 📌 Overview  
 
-## Features
+This **calculator** is implemented using **HTML, CSS, and JavaScript**. It provides an intuitive **user interface** with:  
+✅ A display screen  
+✅ Number buttons (0-9)  
+✅ Decimal point & operators (+, -, *, /, %)  
+✅ **Extra Feature:** Square of a number (x²)  
 
-- Basic arithmetic operations: Addition(+) , Subtraction(-) , Multiplication(*) , Division(/) , Modulo(%) , Square of a number(x^2)
-- Clear button (AC) to reset the display
-- Equal button (=) to calculate and display the result
-- Responsive design for a user-friendly experience
+Users can perform calculations by clicking on the buttons, and the result will be displayed instantly.  
 
-## Styling
-The calculator has a clean and responsive design, making it easy to use on various devices. The styles are defined in the Calculator.css file.
+---
 
-## Code Structure 
-index.html: HTML structure for the calculator.
-Calculator.css: Stylesheet for the calculator.
-Calculator.js: JavaScript logic for button clicks and calculations.
+## ✨ Features  
 
-## How to Contribute
-Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your feedback and contributions are welcome!
+✔️ **Basic Arithmetic Operations:** Addition (+), Subtraction (-), Multiplication (*), Division (/), Modulo (%)  
+✔️ **Square of a number (x²)**  
+✔️ **Clear button (AC)** – Resets the display  
+✔️ **Equal button (=)** – Calculates and displays the result  
+✔️ **Responsive Design** – Works smoothly on different devices  
 
-## Author
-Name - Md Arman Alam
+---
 
-GitHub: https://github.com/Md-Arman-Alam
+## 🎨 Styling  
+
+The calculator is designed with a **clean and responsive layout** for a great user experience.  
+📌 The styles are defined in the **Calculator.css** file.  
+
+---
+
+## 📂 Code Structure  
+
+📌 **index.html** – HTML structure for the calculator  
+📌 **Calculator.css** – Stylesheet for designing the calculator  
+📌 **Calculator.js** – JavaScript logic for handling button clicks and calculations  
+
+---
+
+## 🚀 How to Contribute  
+
+We welcome **contributors** to improve the project! 💡  
+
+✅ **Report bugs & suggest new features**  
+✅ **Enhance UI/UX for a better experience**  
+✅ **Optimize JavaScript for better performance**  
+
+🔗 **Fork the repo, create a branch, and submit a pull request!**  
+
+---
+
+## 👨‍💻 Author  
+
+**Md Arman Alam**  
+🔗 **GitHub:** [Md-Arman-Alam](https://github.com/Md-Arman-Alam)  
+
+📌 **If you like this project, give it a ⭐!**  
