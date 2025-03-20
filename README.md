@@ -55,7 +55,8 @@ We welcome **contributors** to improve the project! 💡
 
 ## 👨‍💻 Author  
 
-**Md Arman Alam**  
-🔗 **GitHub:** [Md-Arman-Alam](https://github.com/Md-Arman-Alam)  
+👤 **Md Arman Alam**  
+📧 Email: [md4577963@gmail.com](mailto:md45577963@gmail.com)  
+🔗 GitHub: [MdArman09](https://github.com/MdArman09)
 
 📌 **If you like this project, give it a ⭐!**  
